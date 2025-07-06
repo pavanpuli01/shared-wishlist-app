@@ -57,7 +57,7 @@ shared-wishlist-app/
 
 1️⃣ Clone the repository
 ------------------------
-$ git clone https://github.com/yourusername/shared-wishlist-app.git
+$ git clone https://github.com/pavanpuli01/shared-wishlist-app.git
 $ cd shared-wishlist-app
 
 2️⃣ Install frontend dependencies
