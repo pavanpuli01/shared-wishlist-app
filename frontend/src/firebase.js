@@ -3,13 +3,13 @@ import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore"; // ✅ Firestore import
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCS6uJsCjLkMSHOsIpMKrcbhsyZa5ecaro",
-  authDomain: "shared-wishlist-app-3d218.firebaseapp.com",
-  projectId: "shared-wishlist-app-3d218",
-  storageBucket: "shared-wishlist-app-3d218.appspot.com",
-  messagingSenderId: "789869867914",
-  appId: "1:789869867914:web:e1911558aff80d19804e73",
-  measurementId: "G-422NLTV1C8"
+  apiKey: "YOUR API KEY",
+  authDomain: "FIREBASE DB NAME ",
+  projectId: "shared-wishlist-app",
+  storageBucket: "*****",
+  messagingSenderId: "****",
+  appId: "******",
+  measurementId: "*****"
 };
 
 // ✅ Initialize Firebase
